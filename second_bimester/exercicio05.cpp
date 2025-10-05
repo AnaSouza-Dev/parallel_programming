@@ -17,3 +17,5 @@ c) Explique em quais situações static e dynamic são mais adequados.
 --------------------------------------------------------------------------------------------------------------------------
 Versão 1.0
 */
+#include <iostream> // std::cout
+#include <omp.h> // API do OpenMP

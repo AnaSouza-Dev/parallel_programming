@@ -17,3 +17,6 @@ c) Mostre o tempo total de execução em cada versão.
 --------------------------------------------------------------------------------------------------------------------------
 Versão 1.0
 */
+#include <iostream> // std::cout
+#include <omp.h> // API do OpenMP
+#include <vector>

@@ -17,3 +17,5 @@ c) Mostrar quantas threads foram utilizadas no cálculo.
 --------------------------------------------------------------------------------------------------------------------------
 Versão 1.0
 */
+#include <iostream> // std::cout
+#include <omp.h> // API do OpenMP
